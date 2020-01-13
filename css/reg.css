@@ -1,0 +1,35 @@
+/******* structure and layout *******/
+
+#centercontent {
+
+margin-top:0px;
+margin-left: 110px;
+margin-bottom:80px;
+margin-right:150px;
+line-height:1em;
+/*voice-family: "\"}\"";
+voice-family: inherit;*/
+
+}
+html>body #centercontent {
+margin-left: 300px;
+margin-right:300px;
+font-size:10px;
+}
+
+#centercontent table tr td{
+color:#000000;
+font-size:16px;
+
+}
+
+#centercontent table tr th{
+color:#000000;
+font-size:35px;
+align:center;
+
+
+}
+
+
+
